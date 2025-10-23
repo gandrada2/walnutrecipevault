@@ -234,52 +234,62 @@ footer a:hover, a:active {
 }
 
 /* -- Code for the Cookie Compliance popover window -- */
-/*
+
 #cookiePopup {
-  background-color: #ffffff;
-  position: absolute;
-  left: 5%;
-  bottom: 0;
-  font-size: 14px;
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #ffffff;
+  color: #333;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 400px;
   width: 90%;
-  box-shadow: 0 0 2em rgba(5, 0, 31, 0.15);
-  font-family: "Poppins", sans-serif;
-  text-align: justify;
-  line-height: 1.8em;
-  margin: 0 auto;
-  padding: 2em 1.4em;
-  border-radius: 6px;
-  transition: all 0.5s ease-in-out;
+  font-size: 14px;
+  z-index: 9999;
+  transition: all 0.3s ease-in-out;
 }
 
-#cookiePopup p {
-  text-align: center;
-  margin: 1.4em 0;
-}
-#cookiePopup button {
-  background-color: #6859fe;
-  border: none;
-  color: #ffffff;
-  font-size: 1.2em;
-  padding: 1em 1.4em;
-  display: block;
-  position: relative;
-  margin: auto;
-  border-radius: 5px;
-}
-#cookiePopup a {
-  color: #6859fe;
-}
-
-.hide {
+#cookiePopup.hide {
+  opacity: 0;
   visibility: hidden;
-  
+  bottom: -100px;
 }
-.show {
+
+#cookiePopup.show {
+  opacity: 1;
   visibility: visible;
- 
+  bottom: 20px;
 }
-*/
+
+.cookie-buttons {
+  margin-top: 15px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.cookie-buttons button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#acceptCookie {
+  background: #007bff;
+  color: white;
+}
+
+#declineCookie {
+  background: #ccc;
+  color: #333;
+}
+
 /* -- End of Code for the Cookie Compliance popover window -- */
 
 @media only screen and  (min-width:900px) {
