@@ -3,63 +3,37 @@
 // the course CPSC 1520 Client-Side Scripting with JavaScript for a solid understanding of what
 // is going on bellow. :)
 
-// cookie-consent.js
-// Functional Cookie Notice Script — Privacy-Compliant Version
-
-document.addEventListener("DOMContentLoaded", () => {
-  const popUp = document.getElementById("cookiePopup");
-  const acceptBtn = document.getElementById("acceptCookie");
-  const declineBtn = document.getElementById("declineCookie");
-
-  // Function to create a cookie
-  function setCookie(name, value, days) {
-    const date = new Date();
-    date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
-    const expires = "expires=" + date.toUTCString();
-    document.cookie = `${name}=${value}; ${expires}; path=/`;
-  }
-
-  // Function to get a cookie by name
-  function getCookie(name) {
-    const decodedCookie = decodeURIComponent(document.cookie);
-    const cookies = decodedCookie.split(";");
-    for (let cookie of cookies) {
-      cookie = cookie.trim();
-      if (cookie.startsWith(name + "=")) {
-        return cookie.substring(name.length + 1);
-      }
-    }
-    return "";
-  }
-
-  // Function to check if consent was already given or declined
-  function checkCookieConsent() {
-    const consent = getCookie("userCookieConsent");
-    if (consent === "accepted" || consent === "declined") {
-      popUp.classList.add("hide");
-      popUp.classList.remove("show");
-    } else {
-      popUp.classList.add("show");
-      popUp.classList.remove("hide");
-    }
-  }
-
-  // Accept cookies
-  acceptBtn.addEventListener("click", () => {
-    setCookie("userCookieConsent", "accepted", 30); // valid for 30 days
-    popUp.classList.add("hide");
-    popUp.classList.remove("show");
-  });
-
-  // Decline cookies
-  declineBtn.addEventListener("click", () => {
-    setCookie("userCookieConsent", "declined", 30);
-    popUp.classList.add("hide");
-    popUp.classList.remove("show");
-  });
-
-  // Show popup after short delay on page load
-  setTimeout(() => {
-    checkCookieConsent();
-  }, 1500);
+let popUp = document.getElementById("cookiePopup");
+//When user clicks the accept button
+document.getElementById("acceptCookie").addEventListener("click", () => {
+  //Create date object
+  let d = new Date();
+  //Increment the current time by 1 minute (cookie will expire after 1 minute)
+  d.setMinutes(2 + d.getMinutes());
+  //Create Cookie withname = myCookieName, value = thisIsMyCookie and expiry time=1 minute
+  document.cookie = "myCookieName=thisIsMyCookie; expires = " + d + ";";
+  //Hide the popup
+  popUp.classList.add("hide");
+  popUp.classList.remove("show");
 });
+//Check if cookie is already present
+const checkCookie = () => {
+  //Read the cookie and split on "="
+  let input = document.cookie.split("=");
+  //Check for our cookie
+  if (input[0] == "myCookieName") {
+    //Hide the popup
+    popUp.classList.add("hide");
+    popUp.classList.remove("show");
+  } else {
+    //Show the popup
+    popUp.classList.add("show");
+    popUp.classList.remove("hide");
+  }
+};
+//Check if cookie exists when page loads
+window.onload = () => {
+  setTimeout(() => {
+    checkCookie();
+  }, 2000);
+};
