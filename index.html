@@ -15,7 +15,7 @@
 	<link rel="stylesheet" href="css/styles.css" media="screen">
 	<link rel="stylesheet" href="css/print.css" media="print">
 
-	<script src="cookies.js"></script>
+	<script src="cookie.js"></script>
 
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-RWCNJ0E14K"></script>
@@ -134,22 +134,18 @@
 	  </div>
 	</footer>
 
-	<!-- Code for the Cookie Compliance popover window -->
+	<!-- Cookie Consent Banner -->
 	<div id="cookiePopup" class="hide">
-		<p><strong>Cookie Notice:</strong> We use cookies to offer you a better browsing experience, analyze site traffic, personalize content, and gather information to improve your experience.  Read about how we use cookies and how you can control them by <a href="privacy.txt">clicking here</a>.</p>
-		<button id="acceptCookie">Close</button>
+		<p>
+			We use cookies to improve your browsing experience and analyze site traffic.
+			By clicking “Accept,” you consent to our use of cookies.
+			<a href="privacy-policy.html" target="_blank">Learn more</a>
+		</p>
+		<div class="cookie-buttons">
+			<button id="acceptCookie">Accept</button>
+			<button id="declineCookie">Decline</button>
+		</div>
 	</div>
-	
-	<script>
-	// Script to open and close sidebar
-	function w3_open() {
-  		document.getElementById("mySidebar").style.display = "block";
-		}
- 
-	function w3_close() {
-  		document.getElementById("mySidebar").style.display = "none";
-		}
-	</script>
 
 	<!-- Javascript to load cookies modal window -->
 	<!-- <script src="js/cookies.js"></script> -->
