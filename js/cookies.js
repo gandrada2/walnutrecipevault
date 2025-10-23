@@ -4,6 +4,9 @@
 // is going on bellow. :)
 
 let popUp = document.getElementById("cookiePopup");
+
+const acceptBtn = document.getElementById("acceptCookie");
+
 //When user clicks the accept button
 document.getElementById("acceptCookie").addEventListener("click", () => {
   //Create date object
