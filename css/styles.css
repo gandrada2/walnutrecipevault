@@ -233,6 +233,68 @@ footer a:hover, a:active {
 	text-decoration: underline;
 }
 
+article p a:visited {
+  color: #427ac1;
+  text-decoration: none;
+}
+
+article p a:hover {
+  color: #2a5a90;
+  text-decoration: none;
+}
+
+footer .copyright {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+footer .copyright p {
+  margin: 5px 0;
+  font-size: medium;
+}
+
+footer .policies {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 0;
+  gap: 15px;
+}
+
+
+/* -- Social Media Icons -- */
+
+.social-icons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.social-icons p {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.social-icon {
+  width: 40px;
+  height: 40px;
+  transition: transform 0.3s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.2);
+}
+
+
 /* -- Code for the Cookie Compliance popover window -- */
 
 #cookiePopup {
