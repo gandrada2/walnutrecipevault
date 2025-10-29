@@ -1,3 +1,48 @@
+Privacy Policy of walnutrecipevault.netlify.app/
+
+Welcome to the privacy policy of walnutrecipevault.netlify.app/. This policy will help you understand what data we collect, why we collect it, and what your rights are in relation to it.
+
+Latest update: October 28, 2025
+
+Table of contents
+Summary
+Owner and Data Controller
+Types of Data collected
+Mode and place of processing the Data
+The purposes of processing
+Detailed information on the processing of Personal Data
+Cookie Policy
+Further Information for Users in the European Union
+Further information for Users in the United States
+Additional information about Data collection and processing
+Definitions and legal references
+Summary
+Data we collect automatically
+We automatically collect data from you for example when you visit walnutrecipevault.netlify.app/.
+
+Trackers
+Usage Data
+number of Users
+session statistics
+Trusted third parties help us to process it
+Google LLC
+Netlify, Inc.
+How we use them
+Analytics
+Displaying content from external platforms
+Contacting the User
+Hosting and backend infrastructure
+Manage your privacy preferences
+Data you give to us
+We collect the data you give to us for example when you sign up for our newsletter.
+
+email address
+How we use them
+Contacting the User
+Owner and Data Controller
+12345 82 Avenue NW, Edmonton, AB T6G 2V9, Canada
+Owner contact email: liamdraxon@gmail.com
+
 Type of Data we collect
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are:
 
@@ -33,6 +78,7 @@ The Data concerning the User is collected to allow the Owner to provide its Serv
 Analytics
 Displaying content from external platforms
 Contacting the User
+Hosting and backend infrastructure
 Detailed information on the processing of Personal Data
 Analytics
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
@@ -56,6 +102,8 @@ Trackers
 Usage Data
 Service provided by:
 Google LLC (United States) – Privacy Policy – Opt out
+Category of Personal Information collected according to the CCPA
+internet or other electronic network activity information
 Contacting the User
 
 
@@ -68,6 +116,9 @@ Personal Data processed:
 email address
 Trackers
 Usage Data
+Category of Personal Information collected according to the CCPA
+identifiers
+internet or other electronic network activity information
 Displaying content from external platforms
 This type of service allows you to view content hosted on external platforms directly from the pages of this Application and interact with them. Such services are often referred to as widgets, which are small elements placed on a website or app. They provide specific information or perform a particular function and often allow for user interaction.
 This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
@@ -87,6 +138,29 @@ Trackers
 Usage Data
 Service provided by:
 Google LLC (United States) – Privacy Policy
+Category of Personal Information collected according to the CCPA
+internet or other electronic network activity information
+Hosting and backend infrastructure
+This type of service has the purpose of hosting Data and files that enable this Application to run and be distributed or to provide a ready-made infrastructure to run specific features or parts of this Application.
+
+Some services among those listed below, if any, may work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+
+Netlify, Inc.
+Netlify
+Company:Netlify, Inc.
+
+Place of processing:United States
+
+Personal Data processed:Usage Data
+
+Netlify is a hosting service provided by Netlify, Inc.
+
+Personal Data processed:
+Usage Data
+Service provided by:
+Netlify, Inc. (United States) – Privacy Policy
+Category of Personal Information collected according to the CCPA
+internet or other electronic network activity information
 Cookie Policy
 This Application uses Trackers. To learn more, Users may consult the Cookie Policy.
 
@@ -134,6 +208,129 @@ Users must know that, however, should their Personal Data be processed for direc
 How to exercise these rights
 Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. Such requests are free of charge and will be answered by the Owner as early as possible and always within one month, providing Users with the information required by law. Any rectification or erasure of Personal Data or restriction of processing will be communicated by the Owner to each recipient, if any, to whom the Personal Data has been disclosed unless this proves impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.
 
+Further information for Users in the United States
+This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+The information contained in this section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are residents in the following states: California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska, Tennessee, Minnesota, Maryland, Indiana, Kentucky, Rhode Island and Montana.
+For such Users, this information supersedes any other possibly divergent or conflicting provisions contained in the privacy policy.
+This part of the document uses the term Personal Information.
+
+Notice at collection
+The following Notice at collection provides you with timely notice about the categories of Personal Information collected or disclosed in the past 12 months so that you can exercise meaningful control over our use of that Information.
+While such categorization of Personal Information is mainly based on California privacy laws, it can also be helpful for anyone who is not a California resident to get a general idea of what types of Personal Information are collected.
+
+
+Internet or other electronic network activity information
+Personal Data processed:Trackers; Usage data; Number of users; Session statistics + 1
+
+Personal Information collected or disclosed:
+Trackers
+Usage Data
+number of Users
+session statistics
+email address
+Purposes:
+Analytics
+Displaying content from external platforms
+Contacting the User
+Hosting and backend infrastructure
+Retention period:
+for the time necessary to fulfill the purpose
+
+Sold or Shared:
+No
+
+Targeted Advertising:
+No
+
+Third-parties:
+Google LLC, Netlify, Inc.
+
+
+Identifiers
+Personal Data processed:Email address; Trackers; Usage data
+
+Personal Information collected or disclosed:
+email address
+Trackers
+Usage Data
+Purposes:
+Contacting the User
+Retention period:
+for the time necessary to fulfill the purpose
+
+Sold or Shared:
+No
+
+Targeted Advertising:
+No
+
+ℹ️ You can read the definitions of these concepts inside the “Definitions and legal references section” of the privacy policy.
+
+To know more about your rights you can refer to the “Your privacy rights under US state laws” section of our privacy policy.
+
+For more details on the collection of Personal Information, please read the section “Detailed information on the processing of Personal Data” of our privacy policy.
+
+We won’t process your Information for unexpected purposes, or for purposes that are not reasonably necessary to and compatible with the purposes originally disclosed, without your consent.
+
+What are the sources of the Personal Information we collect?
+We collect the above-mentioned categories of Personal Information, either directly or indirectly, from you when you use this Application.
+
+For example, you directly provide your Personal Information when you submit requests via any forms on this Application. You also provide Personal Information indirectly when you navigate this Application, as Personal Information about you is automatically observed and collected.
+
+Finally, we may collect your Personal Information from third parties that work with us in connection with the Service or with the functioning of this Application and features thereof.
+
+Your privacy rights under US state laws
+You may exercise certain rights regarding your Personal Information. In particular, to the extent permitted by applicable law, you have:
+
+the right to access Personal Information: the right to know. You have the right to request that we confirm whether or not we are processing your Personal Information. You also have the right to access such Personal Information;
+the right to correct inaccurate Personal Information. You have the right to request that we correct any inaccurate Personal Information we maintain about you;
+the right to request the deletion of your Personal Information. You have the right to request that we delete any of your Personal Information;
+the right to obtain a copy of your Personal Information. We will provide your Personal Information in a portable and usable format that allows you to transfer data easily to another entity – provided that this is technically feasible;
+the right to opt out from the Sale of your Personal Information; We will not discriminate against you for exercising your privacy rights.
+the right to non-discrimination.
+Additional rights for Users residing in California
+In addition to the rights listed above common to all Users in the United States, as a User residing in California, you have:
+
+The right to opt out of the Sharing of your Personal Information for cross-context behavioral advertising;
+The right to request to limit our use or disclosure of your Sensitive Personal Information to only that which is necessary to perform the services or provide the goods, as is reasonably expected by an average consumer. Please note that certain exceptions outlined in the law may apply, such as, when the collection and processing of Sensitive Personal Information is necessary to verify or maintain the quality or safety of our service.
+Additional rights for Users residing in Virginia, Colorado, Connecticut, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska, Tennessee, Minnesota, Maryland, Indiana, Kentucky, Rhode Island and Montana
+In addition to the rights listed above common to all Users in the United States, as a User residing in Virginia, Colorado, Connecticut, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska, Tennessee, Minnesota, Maryland, Indiana, Kentucky, Rhode Island and Montana you have
+
+The right to opt out of the processing of your personal information for Targeted Advertising or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you;
+The right to freely give, deny or withdraw your consent for the processing of your Sensitive Personal Information. Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer. In Maryland, your Sensitive Personal Information will be collected or processed only if strictly necessary to provide or maintain a specific product or service requested by you.
+In Minnesota and Maryland Users also have the right to obtain a list of the specific third parties to which the controller has disclosed the consumer's personal data
+
+* Note that in some states like Minnesota you have the following specific rights connected to profiling:
+
+The right to question the results of the profiling;
+The right to be informed of the reason that the profiling resulted in the decision; if feasible
+The right to be informed of what actions the consumer might have taken to secure a different decision and the actions that the consumer might take to secure a different decision in the future;
+The right to review personal data used in the profiling;
+If inaccurate, the right to have the data corrected and the profiling decision reevaluated based on the corrected data;
+Additional rights for users residing in Utah and Iowa
+In addition to the rights listed above common to all Users in the United States, as a User residing in Utah and Iowa, you have:
+
+The right to opt out of the processing of your Personal Information for Targeted Advertising;
+The right to opt out of the processing of your Sensitive Personal Information. Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer.
+How to exercise your privacy rights under US state laws
+To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided in this document.
+
+For us to respond to your request, we must know who you are. We will not respond to any request if we are unable to verify your identity and therefore confirm the Personal Information in our possession relates to you. You are not required to create an account with us to submit your request. We will use any Personal Information collected from you in connection with the verification of your request solely for verification and shall not further disclose the Personal Information, retain it longer than necessary for purposes of verification, or use it for unrelated purposes.
+
+If you are an adult, you can make a request on behalf of a child under your parental authority.
+
+How to exercise your rights to opt out
+In addition to what is stated above, to exercise your right to opt-out of Sale or Sharing and Targeted Advertising you can also use the privacy choices link provided on this Application.
+
+If you want to submit requests to opt out of Sale or Sharing and Targeted Advertising activities via a user-enabled global privacy control, such as for example the Global Privacy Control (“GPC”), you are free to do so and we will abide by such request in a frictionless manner.
+
+How and when we are expected to handle your request
+We will respond to your request without undue delay, but in all cases within the timeframe required by applicable law. Should we need more time, we will explain to you the reasons why, and how much more time we need.
+
+Should we deny your request, we will explain to you the reasons behind our denial (where envisaged by applicable law you may then contact the relevant authority to submit a complaint).
+
+We do not charge a fee to process or respond to your request unless such request is manifestly unfounded or excessive and in all other cases where it is permitted by the applicable law. In such cases, we may charge a reasonable fee or refuse to act on the request. In either case, we will communicate our choices and explain the reasons behind them.
+
 Additional information about Data collection and processing
 Legal action
 The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.
@@ -154,8 +351,11 @@ The Owner reserves the right to make changes to this privacy policy at any time 
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
 
 Definitions and legal references
-Personal Data (or Data)
+Personal Data (or Data) / Personal Information (or Information)
 Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
+
+Sensitive Personal Information
+Sensitive Personal Information means any Personal Information that is not publicly available and reveals information considered sensitive according to the applicable privacy law.
 
 Usage Data
 Information collected automatically through this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
@@ -178,6 +378,15 @@ The means by which the Personal Data of the User is collected and processed.
 Service
 The service provided by this Application as described in the relative terms (if available) and on this site/application.
 
+Sale
+Sale means any exchange of Personal Information by the Owner to a third party, for monetary or other valuable consideration, as defined by the applicable privacy US state law. Please note that the exchange of Personal Information with a service provider pursuant to a written contract that meets the requirements set by the applicable law, does not constitute a Sale of your Personal Information.
+
+Sharing
+Sharing means any sharing, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer's Personal Information by the business to a third party for cross-context behavioral advertising, whether for monetary or other valuable consideration, including transactions between a business and a third party for cross-context behavioral advertising for the benefit of a business in which no money is exchanged, as defined by the California privacy laws. Please note that the exchange of Personal Information with a service provider pursuant to a written contract that meets the requirements set by the California privacy laws, does not constitute sharing of your Personal Information.
+
+Targeted advertising
+Targeted advertising means displaying advertisements to a consumer where the advertisement is selected based on Personal Information obtained from that consumer’s activities over time and across nonaffiliated websites or online applications to predict such consumer’s preferences or interests, as defined by the applicable privacy US state law.
+
 European Union (or EU)
 Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
 
@@ -188,4 +397,31 @@ Tracker
 Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s device.
 
 Legal information
+This privacy statement has been prepared based on provisions of multiple legislations.
+
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
+
+How can we help?
+What you can do
+Your data
+Ask us to know and access the information we hold on you
+Ask us to correct information we hold on you
+Ask us to be forgotten (delete the information we hold on you)
+Ask to port your data to another service
+Manage your privacy preferences
+In case of issues
+While we strive to create a positive user experience, we understand that issues may occasionally arise between us and our users.
+If this is the case, please feel free to contact us.
+
+Contact us
+Footer
+walnutrecipevault.netlify.app/
+12345 82 Avenue NW, Edmonton, AB T6G 2V9, Canada
+Owner contact email: liamdraxon@gmail.com
+
+Privacy Policy
+by iubenda
+
+Generate yours with the Privacy and Cookie Policy Generator
+
+This document has been created with the iubenda Privacy and Cookie Policy Generator. See also the Terms and Conditions Generator. iubenda hosts this content and only collects the Personal Data strictly necessary for it to be provided.
