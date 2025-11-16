@@ -394,3 +394,56 @@ h3 {
 		margin-left: 10%;
 	}
 }
+
+
+/* ==========================
+   AD BANNER HOVER EFFECTS
+   ========================== */
+
+/* General styling for all ad banners */
+.banner-ads {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+/* Hover effect */
+.banner-ads:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* Leaderboard ad */
+.leaderboard-ad {
+	max-width:728px;
+	margin:30px auto 0;
+	text-align:center;
+}
+
+.leaderboard-ad img {
+    width: 100%;
+    height: auto;
+}
+
+/* Square ad */
+.content-with-ad {
+	display:flex;
+	gap:40px;
+	align-items:flex-start;
+}
+
+.square-ad {
+	width:250px;
+	flex-shrink:0;
+}
+
+.square-ad img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+}
+
+
+
