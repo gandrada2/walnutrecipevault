@@ -78,6 +78,13 @@
   		  </div>
 		</div>
 	</header>
+
+	<!-- HORIZONTAL BANNER AD (728 × 90) BELOW HEADER -->
+	<div class="leaderboard-ad" style="max-width:728px;margin:20px auto;text-align:center;">
+		<a href="#">
+			<img src="img/leaderboard-ad.jpg" alt="Advertisement" style="width:100%;height:auto;">
+		</a>
+	</div>
 	
 	<main>
 		<!-- <aside class="leaderboard">
@@ -160,8 +167,24 @@
 
 		<article>
 			<h3>Looking for Something Different?</h3>
-			<p>I recently explored <a href="https://www.constantlypiningformore.xyz" target="_blank">Constantly Pining for More</a> website, and I have to say, it’s a fantastic resource for anyone interested in <a href="https://www.constantlypiningformore.xyz">vegan pine nut delicacies</a>. As someone who loves experimenting with plant-based baking, I really appreciate the way the site shares well-thought-out recipes and tips that feel both creative and approachable. The author clearly knows her craft, offering guidance that feels trustworthy. I especially enjoyed learning new ways to incorporate pine nuts into elegant vegan treats, which makes baking feel both fun and refined. Overall, I would highly recommend this website to anyone looking to explore unique plant-based indulgences.</p>
+
+			<div class="content-with-ad" style="display:flex;gap:20px;align-items:flex-start;">
+
+				<!-- ⭐ SQUARE BANNER AD (300 × 300) BESIDE TEXT -->
+				<div class="square-ad" style="width:300px;flex-shrink:0;">
+					<a href="#">
+						<img src="img/square-ad.jpg" alt="Advertisement" style="width:100%;height:auto;">
+					</a>
+				</div>
+				
+				<!-- TEXT SECTION -->
+				<div style="flex:1;">
+					<p>I recently explored <a href="https://www.constantlypiningformore.xyz" target="_blank">Constantly Pining for More</a> website, and I have to say, it’s a fantastic resource for anyone interested in <a href="https://www.constantlypiningformore.xyz">vegan pine nut delicacies</a>. As someone who loves experimenting with plant-based baking, I really appreciate the way the site shares well-thought-out recipes and tips that feel both creative and approachable. The author clearly knows her craft, offering guidance that feels trustworthy. I especially enjoyed learning new ways to incorporate pine nuts into elegant vegan treats, which makes baking feel both fun and refined. Overall, I would highly recommend this website to anyone looking to explore unique plant-based indulgences.</p>
+				</div>
+
+			</div>
 		</article>
+
 	</section><!-- end of content -->
 		<aside>
 			<!-- For future consideration -->
@@ -198,8 +221,9 @@
 			</li>
 		</ol>
 	  </div>
+
 	  <div class="copyright">
-		<p>© 2025 Walnut Recipe Vault</p>
+		<p>© 2025 Walnut Recipe Vault. All rights reserved.</p>
 	  </div>
 	  <div class="policies">
 		<a href="https://www.iubenda.com/privacy-policy/17275231" class="iubenda-black iubenda-noiframe iubenda-embed iubenda-noiframe " title="Privacy Policy ">Privacy Policy</a><script>(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
@@ -227,6 +251,16 @@
 
 	<!-- Javascript to load cookies modal window -->
 	<!-- <script src="js/cookies.js"></script> -->
+
+	<script>
+		const toggleBtn = document.getElementById('toggleAbout');
+		const aboutSection = document.getElementById('aboutSection');
+
+		toggleBtn.addEventListener('click', () => {
+		aboutSection.classList.toggle('show');
+		toggleBtn.classList.toggle('active');
+		});
+	</script>
 </body>
 </html>
 
