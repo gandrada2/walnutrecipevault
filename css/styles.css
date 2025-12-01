@@ -487,18 +487,16 @@ h3 {
 }
 
 .new-exciting-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 15px;           /* smaller spacing */
-  max-width: 100%;
-  overflow: hidden;    /* prevents overflow issues */
+    display: flex;
+    flex-wrap: wrap;        /* allows wrapping on smaller screens */
+    justify-content: center;
+    gap: 20px;              /* space between images */
+    margin-top: 20px;
 }
 
 .new-exciting-container img {
-  width: 140px;        /* smaller images so they fit */
-  height: auto;
-  object-fit: cover;
-  border-radius: 6px;
+    width: 250px;           /* adjust size as needed */
+    height: auto;
+    border-radius: 10px;    /* optional — nicer look */
+    object-fit: cover;
 }
-
