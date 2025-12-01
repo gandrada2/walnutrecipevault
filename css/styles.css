@@ -445,5 +445,39 @@ h3 {
     height: auto;
 }
 
+.walnut-research {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+    /* Optional max-width for nicer line lengths */
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1rem 0;
+  }
+
+  .walnut-text,
+  .walnut-media {
+    flex: 1;
+  }
+
+  .walnut-text p {
+    margin: 0 0 1rem 0;
+    line-height: 1.6;
+  }
+
+  .walnut-media img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;        /* optional */
+    display: block;
+  }
+
+  /* Stack vertically on small screens */
+  @media (max-width: 768px) {
+    .walnut-research {
+      flex-direction: column;
+    }
+  
+
 
 
