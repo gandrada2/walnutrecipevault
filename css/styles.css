@@ -495,8 +495,8 @@ h3 {
 }
 
 .new-exciting-container img {
-    width: 70px !important;;           /* adjust size as needed */
-    height: auto !important;;
+    width: 270px !important;           /* adjust size as needed */
+    height: auto !important;
     border-radius: 10px;    /* optional — nicer look */
     object-fit: cover;
 }
