@@ -492,6 +492,7 @@ h3 {
     justify-content: center;
     gap: 20px;              /* space between images */
     margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .new-exciting-container img {
