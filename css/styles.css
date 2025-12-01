@@ -467,7 +467,7 @@ h3 {
   }
 
   .walnut-media img {
-    width: 75%;
+    width: 100%;
     height: auto;
     border-radius: 6px;        /* optional */
     display: block;
