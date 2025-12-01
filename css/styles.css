@@ -490,20 +490,21 @@ h3 {
 
 .new-exciting {
   display: flex;
-  justify-content: space-around; /* spreads images evenly across the page */
+  justify-content: space-evenly; /* spreads images evenly across the line */
   align-items: flex-start;
   margin-top: 20px;
+  width: 100%; /* ensures it uses full page width */
 }
 
 .food-img {
   width: 250px;
-  border-radius: 8px;   /* optional rounded corners */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* subtle shadow */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
 }
 
 .food-img:hover {
-  transform: scale(1.05); /* slight zoom on hover */
+  transform: scale(1.05);
 }
 
 /* Stack vertically on smaller screens */
