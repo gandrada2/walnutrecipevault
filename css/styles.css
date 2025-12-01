@@ -489,14 +489,16 @@ h3 {
 .new-exciting-container {
   display: flex;
   justify-content: center;
-  gap: 30px; /* space between images */
   align-items: center;
-  flex-wrap: nowrap; /* keeps them on one line */
+  gap: 15px;           /* smaller spacing */
+  max-width: 100%;
+  overflow: hidden;    /* prevents overflow issues */
 }
 
 .new-exciting-container img {
-  width: 250px; /* adjust size as needed */
+  width: 140px;        /* smaller images so they fit */
   height: auto;
-  border-radius: 8px; /* optional styling */
+  object-fit: cover;
+  border-radius: 6px;
 }
 
