@@ -483,17 +483,9 @@ h3 {
 /* What's New & Exciting */
 
 .new-exciting-container {
-    display: flex;
-    flex-wrap: nowrap;        /* allows wrapping on smaller screens */
-    justify-content: center;
-    gap: 20px;              /* space between images */
-    margin-top: 20px;
-	margin-bottom: 20px;
-}
-
-.new-exciting-container img {
-    width: 270px !important;           /* adjust size as needed */
-    height: auto !important;
-    border-radius: 10px;    /* optional — nicer look */
-    object-fit: cover;
+  display: flex;               /* puts children in a row */
+  justify-content: center;     /* centers them horizontally */
+  align-items: center;         /* aligns vertically */
+  gap: 20px;                   /* spacing between images */
+  flex-wrap: nowrap;           /* prevents wrapping to next line */
 }
