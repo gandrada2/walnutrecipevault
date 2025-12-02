@@ -445,47 +445,13 @@ h3 {
     height: auto;
 }
 
-/* Pinterest Post */
-.walnut-research {
-    display: flex;
-    gap: 1.5rem;
-    align-items: flex-start;
-    /* Optional max-width for nicer line lengths */
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 1rem 0;
-  }
-
-  .walnut-text,
-  .walnut-media {
-    flex: 1;
-  }
-
-  .walnut-text p {
-    margin: 0 0 1rem 0;
-    line-height: 1.6;
-  }
-
-  .walnut-media img {
-    width: 120%;
-    height: auto;
-    border-radius: 6px;        /* optional */
-    display: block;
-  }
-
-  /* Stack vertically on small screens */
-  @media (max-width: 768px) {
-    .walnut-research {
-      flex-direction: column;
-    }
-
 
 /* What's New & Exciting */
 
 .new-exciting-container {
-  display: flex;               /* puts children in a row */
-  justify-content: center;     /* centers them horizontally */
-  align-items: center;         /* aligns vertically */
-  gap: 20px;                   /* spacing between images */
-  flex-wrap: nowrap;           /* prevents wrapping to next line */
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
 }
