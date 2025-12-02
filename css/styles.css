@@ -487,9 +487,9 @@ h3 {
 }
 
 .new-exciting-container {
-    display: flex;
-    flex-wrap: wrap;        /* allows wrapping on smaller screens */
+    flex-wrap: nowrap;        /* allows wrapping on smaller screens */
     justify-content: center;
+	display: block;
     gap: 20px;              /* space between images */
     margin-top: 20px;
 	margin-bottom: 20px;
